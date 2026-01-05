@@ -1,0 +1,8 @@
+base16-default:
+  extension: .css
+  filename: "themes/{{ scheme-system }}-{{ scheme-slug }}.css"
+
+base24-default:
+  extension: .css
+  filename: "themes/{{ scheme-system }}-{{ scheme-slug }}.css"
+  supported-systems: [base24]
