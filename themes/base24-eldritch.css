@@ -1,4 +1,3 @@
-# COLOUR (base24)
 @define-color black	rgba(33,35,55,0.8);
 @define-color red	#f16c75;
 @define-color green	#37f499;
@@ -11,8 +10,8 @@
 @define-color brred	#f89a9d;
 @define-color brgreen	#6fffc1;
 @define-color bryellow	#f1fc79;
-@define-color brblue	#f0313e;
-@define-color brpurple	#f58bc8;
+@define-color brblue	#7ae9ff;
+@define-color brpurple	#d4b3ff;
 @define-color braqua	#6ce9ff;
 @define-color white	#ebfafa;
 @define-color bg2	#323449;
