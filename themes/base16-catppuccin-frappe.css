@@ -5,8 +5,8 @@
 @define-color blue	#8caaee;
 @define-color purple	#ca9ee6;
 @define-color aqua	#81c8be;
-@define-color gray	#51576d;
-@define-color brgray	#626880;
+@define-color gray	#737994;
+@define-color brgray	#a5adce;
 @define-color brred	#e78284;
 @define-color brgreen	#a6d189;
 @define-color bryellow	#e5c890;
@@ -14,5 +14,5 @@
 @define-color brpurple	#ca9ee6;
 @define-color braqua	#81c8be;
 @define-color white	#c6d0f5;
-@define-color bg2	#292c3c;
-@define-color brblack	#414559;
+@define-color bg2	#414559;
+@define-color brblack	#51576d;
