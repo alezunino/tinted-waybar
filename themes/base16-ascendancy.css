@@ -1,5 +1,5 @@
 @define-color black	rgba(40,40,40,0.8);
-@define-color red	#c03900;
+@define-color red	#d05000;
 @define-color green	#b8bb26;
 @define-color yellow	#ffcc1b;
 @define-color blue	#458588;
@@ -7,7 +7,7 @@
 @define-color aqua	#8f3f71;
 @define-color gray	#928374;
 @define-color brgray	#bdae93;
-@define-color brred	#c03900;
+@define-color brred	#d05000;
 @define-color brgreen	#b8bb26;
 @define-color bryellow	#ffcc1b;
 @define-color brblue	#458588;
